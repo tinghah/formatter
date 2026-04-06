@@ -1,0 +1,7 @@
+node_modules/
+dist/
+server/data/uploads/*
+server/output/*
+!server/data/uploads/.gitkeep
+!server/output/.gitkeep
+.env.local

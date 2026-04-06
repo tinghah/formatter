@@ -1,0 +1,23 @@
+{
+  "name": "excel-formatter",
+  "version": "1.0.0",
+  "description": "Excel Formatter - A local workstation for processing, viewing, and cleaning Excel files",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -n server,client -c blue,green \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "node server/index.js",
+    "dev:client": "cd client && npx vite --port 8181",
+    "build": "cd client && npx vite build"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5",
+    "multer": "^1.4.5-lts.1",
+    "xlsx": "^0.18.5",
+    "uuid": "^9.0.0",
+    "archiver": "^7.0.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

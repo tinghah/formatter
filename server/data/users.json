@@ -1,0 +1,86 @@
+{
+  "127.0.0.1": {
+    "id": "127.0.0.1",
+    "ip": "127.0.0.1",
+    "createdAt": "2026-04-06T03:39:53.687Z",
+    "lastSeen": "2026-04-06T09:12:57.741Z",
+    "recentFiles": [
+      {
+        "fileId": "32b4190e-f824-4c18-8602-2719942a3392",
+        "originalName": "2026 January  Ingyin Leave & OT & Late & Night.xls",
+        "openedAt": "2026-04-06T08:03:53.772Z"
+      },
+      {
+        "fileId": "deececb3-df20-4fd1-9658-09f9675f15dd",
+        "originalName": "test.xlsx",
+        "openedAt": "2026-04-06T07:36:36.811Z"
+      },
+      {
+        "fileId": "6f87962e-0817-4041-97ad-1b51249b357d",
+        "originalName": "error.csv",
+        "openedAt": "2026-04-06T07:36:28.491Z"
+      },
+      {
+        "fileId": "749d8cd9-6fb3-44fb-ab47-49e3b29ddabd",
+        "originalName": "Query.xlsx",
+        "openedAt": "2026-04-06T07:02:38.548Z"
+      },
+      {
+        "fileId": "670e3ca5-6f0c-4eb3-8b32-bcb8eabcd031",
+        "originalName": "RPT202602090007PG_Metabase(8).xls",
+        "openedAt": "2026-04-06T06:34:33.927Z"
+      },
+      {
+        "fileId": "32e64ffb-12a6-4093-bc29-4b182a330094",
+        "originalName": "RPT202602090007PG_Metabase(9).xls.csv",
+        "openedAt": "2026-04-06T06:25:42.026Z"
+      },
+      {
+        "fileId": "5b296600-d52c-4224-9862-e810c0a1dddf",
+        "originalName": "2105-MM48C(1).xlsx",
+        "openedAt": "2026-04-06T06:22:16.889Z"
+      },
+      {
+        "fileId": "f4b7e658-485d-4e5e-97f1-1bdd30db6cfd",
+        "originalName": "Shoe MES AllGuide&Ibconfig_更新最新版.xlsx",
+        "openedAt": "2026-04-06T06:20:17.159Z"
+      },
+      {
+        "fileId": "0bcc4447-0968-4ac2-982a-7e2d1603623a",
+        "originalName": "PCG-0416-ISMS-T04 主機系統權限管制與檢核表V1.3-20260324_PMA_B170_SERP_USER.xlsx",
+        "openedAt": "2026-04-06T06:19:52.995Z"
+      },
+      {
+        "fileId": "4c457298-257f-4a2f-8682-d5569fc9c0ca",
+        "originalName": "2105-MM48C(1).xlsx",
+        "openedAt": "2026-04-06T05:34:21.601Z"
+      },
+      {
+        "fileId": "6cc8de6b-97bc-493e-ace7-a63bd206e94d",
+        "originalName": "NORMAL PCG-0416-ISMS-T04 ä¸»æ©ç³»çµ±æ¬éç®¡å¶èæª¢æ ¸è¡¨V1.3-20260324_PMA_B150 WMS .xlsx",
+        "openedAt": "2026-04-06T04:57:26.819Z"
+      },
+      {
+        "fileId": "5082284b-ef82-4aee-b8e5-92f3fd95515c",
+        "originalName": "PCG-0416-ISMS-T04 ä¸»æ©ç³»çµ±æ¬éç®¡å¶èæª¢æ ¸è¡¨V1.3-20260324_PMA_B170_SERP_ADMIN.xlsx",
+        "openedAt": "2026-04-06T04:55:02.708Z"
+      }
+    ],
+    "preferences": {
+      "theme": "dark"
+    },
+    "toolboxes": [],
+    "pgConnections": [
+      {
+        "id": "pg_1775458465205",
+        "name": "172.23.86.119",
+        "host": "172.23.86.119",
+        "port": 5432,
+        "database": "public",
+        "username": "postgres",
+        "password": "Abc123",
+        "createdAt": "2026-04-06T06:54:25.205Z"
+      }
+    ]
+  }
+}

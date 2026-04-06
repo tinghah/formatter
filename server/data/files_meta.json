@@ -1,0 +1,268 @@
+{
+  "4c457298-257f-4a2f-8682-d5569fc9c0ca": {
+    "id": "4c457298-257f-4a2f-8682-d5569fc9c0ca",
+    "originalName": "2105-MM48C(1).xlsx",
+    "filename": "4c457298-257f-4a2f-8682-d5569fc9c0ca.xlsx",
+    "size": 25233,
+    "sheets": [
+      {
+        "name": "2105-MM48C",
+        "rows": 63,
+        "cols": 40
+      }
+    ],
+    "uploadedAt": "2026-04-06T03:51:03.510Z"
+  },
+  "2df42d28-9033-42eb-a5e8-b7c57f152213": {
+    "id": "2df42d28-9033-42eb-a5e8-b7c57f152213",
+    "originalName": "test_employees.csv",
+    "filename": "2df42d28-9033-42eb-a5e8-b7c57f152213.csv",
+    "size": 186,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows": 6,
+        "cols": 5
+      }
+    ],
+    "uploadedAt": "2026-04-06T03:51:44.961Z"
+  },
+  "c0676092-d50a-442c-a342-0bc22c4c8cf1": {
+    "id": "c0676092-d50a-442c-a342-0bc22c4c8cf1",
+    "originalName": "employees_data.csv",
+    "filename": "c0676092-d50a-442c-a342-0bc22c4c8cf1.csv",
+    "size": 186,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows": 6,
+        "cols": 5
+      }
+    ],
+    "uploadedAt": "2026-04-06T03:53:50.806Z"
+  },
+  "5b296600-d52c-4224-9862-e810c0a1dddf": {
+    "id": "5b296600-d52c-4224-9862-e810c0a1dddf",
+    "originalName": "2105-MM48C(1).xlsx",
+    "filename": "5b296600-d52c-4224-9862-e810c0a1dddf.xlsx",
+    "size": 25233,
+    "sheets": [
+      {
+        "name": "2105-MM48C",
+        "rows": 64,
+        "cols": 43
+      }
+    ],
+    "uploadedAt": "2026-04-06T04:03:07.896Z"
+  },
+  "6cc8de6b-97bc-493e-ace7-a63bd206e94d": {
+    "id": "6cc8de6b-97bc-493e-ace7-a63bd206e94d",
+    "originalName": "NORMAL PCG-0416-ISMS-T04 ä¸»æ©ç³»çµ±æ¬éç®¡å¶èæª¢æ ¸è¡¨V1.3-20260324_PMA_B150 WMS .xlsx",
+    "filename": "6cc8de6b-97bc-493e-ace7-a63bd206e94d.xlsx",
+    "size": 20091,
+    "sheets": [
+      {
+        "name": "PCG-0416-ISMS-T04",
+        "rows": 87,
+        "cols": 8
+      },
+      {
+        "name": "resign",
+        "rows": 7,
+        "cols": 3
+      }
+    ],
+    "uploadedAt": "2026-04-06T04:26:06.816Z"
+  },
+  "5082284b-ef82-4aee-b8e5-92f3fd95515c": {
+    "id": "5082284b-ef82-4aee-b8e5-92f3fd95515c",
+    "originalName": "PCG-0416-ISMS-T04 ä¸»æ©ç³»çµ±æ¬éç®¡å¶èæª¢æ ¸è¡¨V1.3-20260324_PMA_B170_SERP_ADMIN.xlsx",
+    "filename": "5082284b-ef82-4aee-b8e5-92f3fd95515c.xlsx",
+    "size": 26178,
+    "sheets": [
+      {
+        "name": "PCG-0416-ISMS-T04",
+        "rows": 1048572,
+        "cols": 65
+      }
+    ],
+    "uploadedAt": "2026-04-06T04:53:48.853Z"
+  },
+  "0bcc4447-0968-4ac2-982a-7e2d1603623a": {
+    "id": "0bcc4447-0968-4ac2-982a-7e2d1603623a",
+    "originalName": "PCG-0416-ISMS-T04 主機系統權限管制與檢核表V1.3-20260324_PMA_B170_SERP_USER.xlsx",
+    "filename": "0bcc4447-0968-4ac2-982a-7e2d1603623a.xlsx",
+    "size": 26663,
+    "sheets": [
+      {
+        "name": "PCG-0416-ISMS-T04",
+        "rows": 25,
+        "cols": 65
+      }
+    ],
+    "uploadedAt": "2026-04-06T06:19:52.934Z"
+  },
+  "f4b7e658-485d-4e5e-97f1-1bdd30db6cfd": {
+    "id": "f4b7e658-485d-4e5e-97f1-1bdd30db6cfd",
+    "originalName": "Shoe MES AllGuide&Ibconfig_更新最新版.xlsx",
+    "filename": "f4b7e658-485d-4e5e-97f1-1bdd30db6cfd.xlsx",
+    "size": 52462,
+    "sheets": [
+      {
+        "name": "Notice",
+        "rows": 18,
+        "cols": 20
+      },
+      {
+        "name": "Modify_History",
+        "rows": 55,
+        "cols": 9
+      },
+      {
+        "name": "1.AllGuide(feedback)",
+        "rows": 16,
+        "cols": 25
+      },
+      {
+        "name": "2.AllGuide (Example)",
+        "rows": 189,
+        "cols": 29
+      },
+      {
+        "name": "3.ibconfig(feedback)",
+        "rows": 23,
+        "cols": 24
+      },
+      {
+        "name": "3.不需使用項目(PCAG不領料)",
+        "rows": 114,
+        "cols": 20
+      },
+      {
+        "name": "4.已刪除項目(產品)",
+        "rows": 114,
+        "cols": 21
+      },
+      {
+        "name": "4.ibconfig (Example)",
+        "rows": 75,
+        "cols": 19
+      },
+      {
+        "name": "5.Dispo (Example)",
+        "rows": 42,
+        "cols": 10
+      }
+    ],
+    "uploadedAt": "2026-04-06T06:20:17.080Z"
+  },
+  "32e64ffb-12a6-4093-bc29-4b182a330094": {
+    "id": "32e64ffb-12a6-4093-bc29-4b182a330094",
+    "originalName": "RPT202602090007PG_Metabase(9).xls.csv",
+    "filename": "32e64ffb-12a6-4093-bc29-4b182a330094.csv",
+    "size": 1307,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows": 5,
+        "cols": 18
+      }
+    ],
+    "uploadedAt": "2026-04-06T06:25:41.982Z"
+  },
+  "670e3ca5-6f0c-4eb3-8b32-bcb8eabcd031": {
+    "id": "670e3ca5-6f0c-4eb3-8b32-bcb8eabcd031",
+    "originalName": "RPT202602090007PG_Metabase(8).xls",
+    "filename": "670e3ca5-6f0c-4eb3-8b32-bcb8eabcd031.xls",
+    "size": 15872,
+    "sheets": [
+      {
+        "name": "sheet1",
+        "rows": 33,
+        "cols": 18
+      }
+    ],
+    "uploadedAt": "2026-04-06T06:25:52.137Z"
+  },
+  "6f87962e-0817-4041-97ad-1b51249b357d": {
+    "id": "6f87962e-0817-4041-97ad-1b51249b357d",
+    "originalName": "error.csv",
+    "filename": "6f87962e-0817-4041-97ad-1b51249b357d.csv",
+    "size": 5975,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows": 9,
+        "cols": 72
+      }
+    ],
+    "uploadedAt": "2026-04-06T06:34:42.073Z"
+  },
+  "deececb3-df20-4fd1-9658-09f9675f15dd": {
+    "id": "deececb3-df20-4fd1-9658-09f9675f15dd",
+    "originalName": "test.xlsx",
+    "filename": "deececb3-df20-4fd1-9658-09f9675f15dd.xlsx",
+    "size": 25233,
+    "sheets": [
+      {
+        "name": "2105-MM48C",
+        "rows": 55,
+        "cols": 33
+      }
+    ],
+    "uploadedAt": "2026-04-06T06:34:52.869Z"
+  },
+  "749d8cd9-6fb3-44fb-ab47-49e3b29ddabd": {
+    "id": "749d8cd9-6fb3-44fb-ab47-49e3b29ddabd",
+    "originalName": "Query.xlsx",
+    "filename": "749d8cd9-6fb3-44fb-ab47-49e3b29ddabd.xlsx",
+    "size": 20585,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows": 40,
+        "cols": 31
+      },
+      {
+        "name": "Sheet2",
+        "rows": 9,
+        "cols": 6
+      }
+    ],
+    "uploadedAt": "2026-04-06T06:56:55.252Z"
+  },
+  "32b4190e-f824-4c18-8602-2719942a3392": {
+    "id": "32b4190e-f824-4c18-8602-2719942a3392",
+    "originalName": "2026 January  Ingyin Leave & OT & Late & Night.xls",
+    "filename": "32b4190e-f824-4c18-8602-2719942a3392.xls",
+    "size": 648704,
+    "sheets": [
+      {
+        "name": "2026 Jan Leave",
+        "rows": 4121,
+        "cols": 58
+      },
+      {
+        "name": "2026 Jan OT",
+        "rows": 336,
+        "cols": 58
+      },
+      {
+        "name": "2026 Jan Late",
+        "rows": 336,
+        "cols": 58
+      },
+      {
+        "name": "2026 Jan Night",
+        "rows": 24,
+        "cols": 37
+      },
+      {
+        "name": "Leave Hour",
+        "rows": 60,
+        "cols": 25
+      }
+    ],
+    "uploadedAt": "2026-04-06T07:38:16.174Z"
+  }
+}
